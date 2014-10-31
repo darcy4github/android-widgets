@@ -17,7 +17,7 @@ import android.view.inputmethod.EditorInfo;
 import android.widget.EditText;
 
 /**
- * Auth path completion edit view<br/>
+ * Auto path completion edit view<br/>
  * Usage: <br/>
  *
  * <pre>
